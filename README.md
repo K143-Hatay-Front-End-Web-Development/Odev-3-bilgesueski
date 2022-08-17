@@ -1,8 +1,7 @@
 # Odev-3
 
 ## Grup Üyeleri
-- [Ad] [Soyad]
-- [Ad] [Soyad]
+- Bilgesu Eşki
 
 ## İçerik
 
